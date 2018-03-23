@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CropMobHoppers">
+    <output-path>E:/Desktop/Minecraft/Servers/NewCannonTest/plugins</output-path>
+    <root id="archive" name="CropMobHoppers.jar">
+      <element id="module-output" name="CropMobHoppers" />
+      <element id="extracted-dir" path="E:/Desktop/Minecraft/Servers/NewCannonTest/paperspigot-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

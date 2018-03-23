@@ -1,0 +1,7 @@
+name: CropMobHopper
+version: 1.0
+main: com.nukeit5093.cropmobhopper.CropMobHopper
+commands:
+  cropmobhopper:
+    description: Main CropMobHopper command.
+    aliases: [cmh]
